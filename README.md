@@ -1,29 +1,30 @@
-# turtlecoin-wiki
-:turtle: :turtle: :turtle: Documentation for all things TurtleCoin:turtle: :turtle: :turtle:
+# turtlecoin-wiki-es
+:turtle: :turtle: :turtle: Documentación para todo TurtleCoin:turtle: :turtle: :turtle:
 
-## About
-This repository is the **official** home of all TurtleCoin documentation and should be regarded as the *single source of truth* for all 'official' or officially supported TurtleCoin projects. Because of the distributed, open, community-driven nature of our development teams, we believe the easiest approach to managing our documentation is to organize all of it in this central repository. This helps to avoid duplication and inconsistency and relieves contributors from having to track down and edit multiple documents in multiple places.  
-The community makes a best-effort to keep documentation accurate and up-to-date, but please be aware that it may not always reflect reality - code changes may be released before documentation is updated.
+## Acerca de
+Este es el repositorio **oficial** casa de toda la documentación del Turtle Coin y esta debe ser *la única fuente de la verdad* para todo lo 'oficial' o projectos aprobados por Turtle. A razón de nuestra distribuida, abiert, comunitaria naturaleza de nuestros equipos, creemos que la forma más sencilla de administrar nuestra documentación es organizar todo en este repositorio central. Esto ayuda a evitar la duplicación e inconsistencia y libera a los contribuidores de tener que buscar diferentes projectos y editar diferentes documentos.  
 
-## Instances of the Wiki
+La comunidad hace su mejor esfuerzo en mantener la documentación precisa y actualizada, pero por favor debe tener pendiente que no siempre reflejará la realidad - algunos cambios en el código pueden ser lanzados antes de actualizar la documentación. 
 
-The official production TurtleCoin Wiki is at http://github.com/turtlecoin/turtlecoin/wiki. This is the URL that should be used for externally linking to the wiki (or any articles/pages within it).
+## Instancias del Wiki
+El wiki oficial de la producción de Turtle Coin está en http://github.com/turtlecoin/turtlecoin/wiki (aún en inglés). Esta es la URL que debería ser usada para publicar el Wiki de manera pública (o para incluirlo en algún articulo/página)
 
-This repo, http://github.com/turtlecoin/turtlecoin-wiki, holds the raw markdown that the wiki is built from.
+Este repositorio, http://github.com/turtlecoin/turtlecoin-wiki tiene la marca en crudo de como está creado el wiki. 
 
-This repo's Github wiki (http://github.com/turtlecoin/turtlecoin-wiki/wiki) serves as a live 'test site' for testing changes to the wiki before pushing to the official production TurtleCoin Wiki.
+Este reposotirio de wiki en Github (http://github.com/turtlecoin/turtlecoin-wiki/wiki) sirve como una versión en línea de 'sitio de prueba', para hacer los cambios a este wiki antes de lanzarlos al oficial de Turtle Coin
 
-## Contributing
+## Contribuciones
 
-Changes, edits, and other contributions to the TurtleCoin documentation can be submitted as a Github [Pull Request](https://github.com/turtlecoin/turtlecoin-wiki/pulls) to this repository, or as a Github Issue on this repo's [Issues page](https://github.com/turtlecoin/turtlecoin-wiki/issues).  
-Please be granular and make a single commit per change/set of related changes (or file an Issue for each change if not directly submitting PR's). This will make reviewing changes easier and increase the speed and efficiency of getting your changes merged in.
+Cambios, ediciones y otras contribuciones a la documentación de Turtlecoin puede ser presentada como un Github [Pull Request](https://github.com/turtlecoin/turtlecoin-wiki/pulls) a este repositorio, o como un Github Issue en este repositorio [Issues page](https://github.com/turtlecoin/turtlecoin-wiki/issues).  
 
-## Thanks and Contributors
+Por favor, se minuscioso y haz un solo 'commit' por set de cambios o relacionados (o registra un 'issue' por cada cambio, si no se registra directo). Esto permitirá que revisar los cambios sea más cómodo y fácil, acelerando la velocidad y eficiencia de ver los cambios combinados. 
+
+## Gracias a nuestros colaboradores
 - @ZedPea
 - @ar-x
 - @Sajo811
 - @holytastyguacamole
 - @SoreGums
-- the TurtleCoin community.
+- La comunidad de TurtleCoin 
 
-...more to be listed soon!
+...pronto estaremos listando más!
